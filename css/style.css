@@ -50,8 +50,9 @@ h2 {font-size: 32px; color: #141414; margin: 40px 0 32px 0;}
 }
 p {font-size: 18px; color: #141414; font-weight: 500;}
 
-.note{font-size: 50%; line-height: 50%;}
+.note{font-size: 50%; font-weight: 400; line-height: 50%;}
 .theme{color: #4Ac2b8;}
+.kome{font-size: 8px; vertical-align: text-top; }
 
 
 @media screen and (max-width: 480px) { /* スマホ用 */
@@ -59,6 +60,7 @@ p {font-size: 18px; color: #141414; font-weight: 500;}
     h2{font-size: 4.8vw; line-height: 180%;}
     p {font-size: 4vw;}
     .note{font-size: 60%;}
+    .kome{font-size: 2vw; vertical-align: text-top; }
     .content-wrap{width: 100%;}
     .middle-item{margin: 0;}
     .middle-item-feature{margin: 0;}
@@ -185,7 +187,7 @@ div.header-image{
 }
 
 @media screen and (max-width: 480px) {
-    header {max-width: 100vw; height: 184vw; text-align: center; overflow: hidden;}
+    header {max-width: 100vw; height: 160vw; text-align: center; overflow: hidden;}
     header p {font-size: 4vw; text-align: left; margin: 0 0 0 12vw;}
     header img{width: 60vw; margin: 6vw auto;}
     .header-wrap {margin: 0 0 0 0; padding: 8vw 0 0 0;}
@@ -288,11 +290,6 @@ main{margin: 0 0 80px 0;}
     right: 50%;
     transform: translateX(50%);
 }
-#solutions .solutions_note{
-    position: absolute;
-    font-size: 8px;
-    left: 204px; bottom: 32px;
-}
 
 @media screen and (max-width: 480px) { /* スマホ用 */
     #solutions {padding: 2vw 0 4vw 0;}
@@ -301,11 +298,6 @@ main{margin: 0 0 80px 0;}
     #solutions li > div {bottom: 6vw;}
     #solutions img {width: 72vw; bottom: 16vw;}
     #solutions .sp_sol_img{width: 60vw; bottom: 24vw;}
-    #solutions .solutions_note{
-        position: absolute;
-        font-size: 2vw;
-        left: 51vw; bottom: 7.4vw;
-    }
 }
 
 
@@ -350,6 +342,19 @@ div.features_title{
     white-space: nowrap;
     font-size: 16px;
 }
+#features li div {
+    position: absolute;
+    background: #e0fdf3;
+    border: solid 1px #17907e;
+    border-radius: 20px;
+    color: #17907E;
+    font-size: 12px;
+    font-weight: 500;
+    padding: 2px 6px;
+    top: 12px;
+    left: 12px;
+
+}
 #features img{
     position: absolute;
     width: 200px;
@@ -365,13 +370,16 @@ div.features_title{
     #features li p{text-align: left; font-size: 3.6vw; bottom: 50%; transform: translateY(50%); left: 4vw;}
     #features img {height: 22vw; width: auto; bottom: 0; right: 4vw; transform: none;}
     div.comming{font-size: 3vw; width: 24vw; height: 5.2vw; border-radius: 2.6vw; margin: -4vw auto 0 auto;}
+    .features-li-coming p{bottom: 64% !important;}
+    #features li div {left: 4vw; top: 12vw;}
+    .features-li-comingsoon{left: 4vw; top: 14.2vw !important;}
 }
 
 
 /* ーーーーーーーーーーーーーーーーーーresourcesーーーーーーーーーーーーーーーーーー */
 #resources {
     text-align: center;
-    padding: 60px 0;
+    padding: 0px 0; /* .resources_anno pを記述する際はtop,bottomを60pxに戻す */
     max-width: 100%;
 }
 #resources ul{
@@ -387,7 +395,7 @@ div.features_title{
 }
 
 @media screen and (max-width: 480px) { /* スマホ用 */
-    #resources {padding: 12vw 0;}
+    #resources {padding: 0 0 8vw 0;} /* .resources_anno pを記述する際はtop,bottomを12vwに戻す */
     #resources ul{margin: 0 0 12vw 0}
     #resources li{font-size: 4vw; margin: 0 0 14vw 0;}
     .resources_anno hr{max-width: 88vw; height: 0.4vw;}
