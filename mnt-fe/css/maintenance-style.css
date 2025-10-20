@@ -9,7 +9,15 @@ body {
   color: #333;
   background: #fff;
   font-size: 16px;
-  font-family: "Noto Sans JP", sans-serif;
+  font-family: "Noto Sans JP", "Hiragino Kaku Gothic ProN", "BIZ UDPGothic", Meiryo, sans-serif;
+  font-kerning: normal;
+  font-variant-east-asian: proportional-width;
+  font-feature-settings: "palt" 1, "kern" 1;
+  text-rendering: optimizeLegibility;
+  -webkit-text-size-adjust: 100%;
+  line-height: 1.6;
+  -webkit-font-smoothing: antialiased;
+  scroll-behavior: smooth;
   font-weight: 500;
   height: 100vh;
 }
