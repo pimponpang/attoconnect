@@ -1,0 +1,50 @@
+<svg width="200" height="180" viewBox="0 0 200 180" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M111.987 110.339L106.305 107.059L103.033 118.676L123.155 116.787L117.473 113.506L141.006 99.9195L135.52 96.7522L111.987 110.339Z" fill="#FF9090"/>
+<rect width="59.5244" height="39.6829" transform="matrix(0.86687 0.498534 -0.86687 0.498534 136.4 30.9752)" fill="#FEFFFF"/>
+<path d="M102 49.7585L153.6 79.4335V120L102 90.3251V49.7585Z" fill="#E2E2E2"/>
+<path d="M153.6 79.4335L188 59.6502V100.217L153.6 120V79.4335Z" fill="#B9B9B9"/>
+<mask id="mask0_509_1402" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="106" y="65" width="19" height="30">
+<rect width="19.8415" height="19.7833" transform="matrix(0.86687 0.498534 0 1 106.965 65.0551)" fill="#D9D9D9"/>
+</mask>
+<g mask="url(#mask0_509_1402)">
+<rect width="1.98415" height="19.7833" transform="matrix(0.86687 -0.498534 0 1 106.965 65.0551)" fill="#B9B9B9"/>
+<rect width="19.8415" height="1.98415" transform="matrix(0.86687 0.498534 -0.86687 0.498534 108.685 83.8491)" fill="#FEFFFF"/>
+<rect width="19.8415" height="19.7833" transform="matrix(0.86687 0.498534 0 1 108.685 64.0659)" fill="#939393"/>
+</g>
+<mask id="mask1_509_1402" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="132" y="78" width="18" height="40">
+<rect width="19.8415" height="29.6749" transform="matrix(0.86687 0.498534 0 1 132.784 78.3594)" fill="#D9D9D9"/>
+</mask>
+<g mask="url(#mask1_509_1402)">
+<rect width="4.96037" height="29.6749" transform="matrix(0.86687 -0.498534 0 1 132.784 78.3594)" fill="#B9B9B9"/>
+<rect width="19.8415" height="4.96037" transform="matrix(0.86687 0.498534 -0.86687 0.498534 137.084 105.561)" fill="#FEFFFF"/>
+<rect width="19.8415" height="29.6749" transform="matrix(0.86687 0.498534 0 1 137.084 75.8865)" fill="#939393"/>
+</g>
+<rect width="59.5244" height="39.6829" transform="matrix(0.86687 0.498534 -0.86687 0.498534 136.4 29.9783)" fill="#F99D56"/>
+<path d="M136.4 29.9783V28L119.2 37.8916L102 49.7616L136.4 29.9783Z" fill="#93AAFC"/>
+<path d="M136.4 29.9783V28L170.8 47.7833L188 59.6533L136.4 29.9783Z" fill="#F99D56"/>
+<path d="M153.6 79.4365V57.6749L119.2 37.8916L102 49.7616L153.6 79.4365Z" fill="#FFB47A"/>
+<path d="M153.6 79.4366V57.675L170.8 47.7833L188 59.6533L153.6 79.4366Z" fill="#F99D56"/>
+<rect width="39.6829" height="19.8415" transform="matrix(0.86687 0.498534 -0.86687 0.498534 136.4 28)" fill="#FFC9A0"/>
+<rect width="63.1906" height="36.1089" transform="matrix(0.866067 0.499929 -0.866067 0.499929 45.2727 74.2537)" fill="#FEFFFF"/>
+<rect width="63.1906" height="36.1037" transform="matrix(0.866067 0.499929 0 1 14 92.3054)" fill="#E6E6E6"/>
+<rect width="36.1089" height="36.1037" transform="matrix(0.866067 -0.499929 0 1 68.7273 123.896)" fill="#B9B9B9"/>
+<path d="M14 92.3084L45.2727 74.2565L72.6363 72L41.3636 90.0519L14 92.3084Z" fill="#86DED5"/>
+<path d="M68.7272 123.899L99.9999 105.847L72.6363 72L41.3636 90.0519L68.7272 123.899Z" fill="#1E9384"/>
+<path d="M14 92.3083L68.7272 123.899L41.3636 90.0519L14 92.3083Z" fill="#3EC3B5"/>
+<mask id="mask2_509_1402" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="47" y="118" width="17" height="28">
+<rect width="18.0544" height="18.0519" transform="matrix(0.866114 0.499846 0 1 47.4023 118.89)" fill="#D9D9D9"/>
+</mask>
+<g mask="url(#mask2_509_1402)">
+<rect width="1.80544" height="18.0519" transform="matrix(0.866114 -0.499846 0 1 47.4023 118.89)" fill="#B9B9B9"/>
+<rect width="18.0544" height="1.80544" transform="matrix(0.866067 0.499929 -0.866067 0.499929 48.9659 136.039)" fill="#FEFFFF"/>
+<rect width="18.0544" height="18.0519" transform="matrix(0.866067 0.499929 0 1 48.9659 117.987)" fill="#939393"/>
+</g>
+<mask id="mask3_509_1402" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="27" y="109" width="17" height="37">
+<rect width="18.0544" height="27.0778" transform="matrix(0.866114 0.499846 0 1 27.5416 109.162)" fill="#D9D9D9"/>
+</mask>
+<g mask="url(#mask3_509_1402)">
+<rect width="4.51361" height="27.0778" transform="matrix(0.866114 -0.499846 0 1 27.5416 109.162)" fill="#B9B9B9"/>
+<rect width="18.0544" height="5.62703" transform="matrix(0.866067 0.499929 -0.866067 0.499929 31.4507 133.983)" fill="white"/>
+<rect width="18.0544" height="27.0778" transform="matrix(0.866067 0.499929 0 1 31.4507 106.905)" fill="#939393"/>
+</g>
+</svg>

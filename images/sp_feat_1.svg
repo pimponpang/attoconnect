@@ -1,0 +1,49 @@
+<svg width="132" height="88" viewBox="0 0 132 88" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="29.0813" height="19.3875" transform="matrix(0.866536 0.499115 -0.866536 0.499115 92.8 9.45532)" fill="#FEFFFF"/>
+<path d="M76 18.6428L101.2 33.1577V53.0001L76 38.4852V18.6428Z" fill="#E2E2E2"/>
+<path d="M101.2 33.1577L118 23.4811V43.3234L101.2 53.0001V33.1577Z" fill="#B9B9B9"/>
+<mask id="mask0_509_2739" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="78" y="26" width="9" height="15">
+<rect width="9.69376" height="9.6766" transform="matrix(0.866536 0.499115 0 1 78.4249 26.1248)" fill="#D9D9D9"/>
+</mask>
+<g mask="url(#mask0_509_2739)">
+<rect width="0.969376" height="9.6766" transform="matrix(0.866536 -0.499115 0 1 78.4249 26.1248)" fill="#B9B9B9"/>
+<rect width="9.69376" height="0.969376" transform="matrix(0.866536 0.499115 -0.866536 0.499115 79.2649 35.3176)" fill="#FEFFFF"/>
+<rect width="9.69376" height="9.6766" transform="matrix(0.866536 0.499115 0 1 79.2649 25.6409)" fill="#939393"/>
+</g>
+<mask id="mask1_509_2739" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="91" y="32" width="9" height="20">
+<rect width="9.69376" height="14.5149" transform="matrix(0.866536 0.499115 0 1 91.0342 32.6323)" fill="#D9D9D9"/>
+</mask>
+<g mask="url(#mask1_509_2739)">
+<rect width="2.42344" height="14.5149" transform="matrix(0.866536 -0.499115 0 1 91.0342 32.6323)" fill="#B9B9B9"/>
+<rect width="9.69376" height="2.42344" transform="matrix(0.866536 0.499115 -0.866536 0.499115 93.1342 45.9377)" fill="#FEFFFF"/>
+<rect width="9.69376" height="14.5149" transform="matrix(0.866536 0.499115 0 1 93.1342 31.4229)" fill="#939393"/>
+</g>
+<rect width="29.0813" height="19.3875" transform="matrix(0.866536 0.499115 -0.866536 0.499115 92.8 8.96777)" fill="#F99D56"/>
+<path d="M92.8 8.96766V8L84.4001 12.8383L76.0001 18.6443L92.8 8.96766Z" fill="#93AAFC"/>
+<path d="M92.8 8.96766V8L109.6 17.6766L118 23.4826L92.8 8.96766Z" fill="#F99D56"/>
+<path d="M101.2 33.1592V22.515L84.4 12.8384L76 18.6443L101.2 33.1592Z" fill="#FFB47A"/>
+<path d="M101.2 33.1591V22.5148L109.6 17.6765L118 23.4825L101.2 33.1591Z" fill="#F99D56"/>
+<rect width="19.3875" height="9.69376" transform="matrix(0.866536 0.499115 -0.866536 0.499115 92.8 8)" fill="#FFC9A0"/>
+<rect width="30.8647" height="17.637" transform="matrix(0.865949 0.500132 -0.865949 0.500132 47.2727 38.1013)" fill="#FEFFFF"/>
+<rect width="30.8647" height="17.6416" transform="matrix(0.865949 0.500132 0 1 32 46.9221)" fill="#E6E6E6"/>
+<rect width="17.637" height="17.6416" transform="matrix(0.865949 -0.500131 0 1 58.7273 62.3584)" fill="#B9B9B9"/>
+<path d="M32 46.9234L47.2727 38.1026L60.6363 37L45.3636 45.8208L32 46.9234Z" fill="#86DED5"/>
+<path d="M58.7272 62.3598L74 53.539L60.6363 37L45.3636 45.8208L58.7272 62.3598Z" fill="#1E9384"/>
+<path d="M32 46.9233L58.7273 62.3597L45.3636 45.8207L32 46.9233Z" fill="#3EC3B5"/>
+<mask id="mask2_509_2739" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="48" y="59" width="8" height="15">
+<rect width="8.81848" height="8.8208" transform="matrix(0.865997 0.500049 0 1 48.3127 59.9121)" fill="#D9D9D9"/>
+</mask>
+<g mask="url(#mask2_509_2739)">
+<rect width="0.881848" height="8.8208" transform="matrix(0.865997 -0.500049 0 1 48.3127 59.9121)" fill="#B9B9B9"/>
+<rect width="8.81848" height="0.881848" transform="matrix(0.865949 0.500131 -0.865949 0.500131 49.0764 68.292)" fill="#FEFFFF"/>
+<rect width="8.81848" height="8.8208" transform="matrix(0.865949 0.500131 0 1 49.0764 59.4712)" fill="#939393"/>
+</g>
+<mask id="mask3_509_2739" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="38" y="55" width="9" height="18">
+<rect width="8.81848" height="13.2312" transform="matrix(0.865997 0.500049 0 1 38.6133 55.1584)" fill="#D9D9D9"/>
+</mask>
+<g mask="url(#mask3_509_2739)">
+<rect width="2.20462" height="13.2312" transform="matrix(0.865997 -0.500049 0 1 38.6133 55.1584)" fill="#B9B9B9"/>
+<rect width="8.81848" height="2.74845" transform="matrix(0.865949 0.500131 -0.865949 0.500131 40.5224 67.2871)" fill="white"/>
+<rect width="8.81848" height="13.2312" transform="matrix(0.865949 0.500132 0 1 40.5224 54.0559)" fill="#939393"/>
+</g>
+</svg>
