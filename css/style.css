@@ -131,9 +131,28 @@ a.cta_main {
     transition: background 0.3s, color 0.3s, box-shadow 0.3s;
 }
 
+a.cta_navi {
+    background: #4Ac2b8;
+    color: #fff;
+    width: 240px;
+    height: 30px;
+    font-weight: 700;
+    margin: -8px auto;
+    border-radius: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: background 0.3s, color 0.3s, box-shadow 0.3s;
+}
+
+a.cta_navi:hover{
+    background: #4Ac;
+}
+
 a:hover {
     background: #4Ac;
 }
+
 
 @media screen and (max-width: 480px) {
     a.cta{
@@ -161,7 +180,19 @@ header {
     max-width: 100%;
 }
 .header-wrap{margin: 0 0 0 32px; padding: 120px 0 0 0; z-index: 5; position: relative;}
-header p {font-size: 16px; z-index: 100;}
+header p {font-size: 18px; z-index: 100;}
+
+header p span{font-size:smaller}
+
+header p.pill{
+    margin-top: 12px;
+    display:inline-block;
+    color: #17907E;
+    background-color: rgba(255, 255, 255, 0.7);
+    padding:.25em .75em .35em .75em ;
+    border-radius:1em;
+    line-height:1.6;
+}
 
 header img{
     width: 326px;
@@ -177,7 +208,7 @@ header img{
 }
 div.header-image{
     position: absolute;
-    top: -332px;
+    top: -352px;
     right: 0px;
     background-image: url(../images/top_pc.svg);
     background-repeat: no-repeat;
@@ -187,8 +218,8 @@ div.header-image{
 }
 
 @media screen and (max-width: 480px) {
-    header {max-width: 100vw; height: 160vw; text-align: center; overflow: hidden;}
-    header p {font-size: 4vw; text-align: left; margin: 0 0 0 12vw;}
+    header {max-width: 100vw; height: 164vw; text-align: center; overflow: hidden;}
+    header p {font-size: 4vw; text-align: left; margin: 0 6vw 0 6vw;}
     header img{width: 60vw; margin: 6vw auto;}
     .header-wrap {margin: 0 0 0 0; padding: 8vw 0 0 0;}
     .header-image-wrap{min-width: 100%; position: static;}
